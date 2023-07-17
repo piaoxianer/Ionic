@@ -1,2 +1,0 @@
-# Ionic
-Angular ionic project
